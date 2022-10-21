@@ -1,0 +1,4 @@
+Called function: test_func 
+Date and time of the call: 10/19/2022, 12:52:29 
+Entered data: (500, 500) and {} 
+Final values of the test_func function: 1000 
